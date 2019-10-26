@@ -1,3 +1,6 @@
 [submodule "Assets/Dev/Code"]
 	path = Assets/Dev/Code
 	url = https://github.com/halovn113/Code.git
+[submodule "Assets/Scripts"]
+	path = Assets/Scripts
+	url = https://github.com/halovn113/Code.git
